@@ -1,4 +1,5 @@
 #1) Создать проект на дарте
+
 #2) Нарисовать в консоли ёлочку подобного вида
 
 ![Example_1](bin/screenshots/default_tree.png)
@@ -10,9 +11,10 @@
 Это будет плюсом
 
 #3) Запушить проект в гитхаб, вместе со скриншотом консоли, в которой он рисует елочку
-#4) Дать нам ссылку на негоA simple command-line application.
 
-### xmasTree(\[arguments\])
+#4) Дать нам ссылку на него
+
+### ChristmasTree(\[arguments\])
 
 #### arguments
 
@@ -30,6 +32,8 @@ Default: `false`
 
 Type: `boolean`<br>
 Default: `false`
+
+#Examples
 
 ![Example_1](bin/screenshots/full_tree.png)
 ![Example_2](bin/screenshots/small_tree.png)
